@@ -11,6 +11,11 @@
   <meta property="og:url" content="https://kirimifoodfranchise.org/">
   <meta property="og:type" content="website">
 
+<!-- Twitter Preview -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Kirimi Food Franchise">
+  <meta name="twitter:description" content="Bridging Farms and Family">
+  <meta name="twitter:image" content="https://github.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/blob/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg">
 </head>
 
 <body>
