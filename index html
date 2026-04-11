@@ -6,12 +6,12 @@
   <!-- Preview (this creates the image when shared) -->
   <meta property="og:title" content="Kirimi Food Franchise">
   <meta property="og:description" content="Bridging Farms and Family">
-  <meta property="og:image" content="https://raw.githubusercontent.com/yourusername/yourrepo/main/preview.png">
+  <meta property="og:image" content="https://github.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/blob/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg">
   <meta property="og:url" content="https://github.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness">
   <meta property="og:type" content="website">
 
   <!-- Auto redirect to your real website -->
-  <meta http-equiv="refresh" content="0; url=https://yourwebsite.com">
+  <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/kirimi-food-franchise-farming/home">
 
   <title>Redirecting...</title>
 </head>
