@@ -2,25 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Kirimi Food Franchise</title>
 
-  <!-- Open Graph Preview -->
-  <meta property="og:title" content="KFF">
-  <meta property="og:description" content="Kirimi Food Franchise">
-  <meta property="og:image" content="https://github.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/blob/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg ">
-  <meta property="og:url" content="https://kirimifoodfranchise.org/">
+  <!-- Preview (this creates the image when shared) -->
+  <meta property="og:title" content="Kirimi Food Franchise">
+  <meta property="og:description" content="Bridging Farms and Family">
+  <meta property="og:image" content="https://raw.githubusercontent.com/yourusername/yourrepo/main/preview.png">
+  <meta property="og:url" content="https://yourusername.github.io/repo-name/">
   <meta property="og:type" content="website">
 
-<!-- Twitter Preview -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Kirimi Food Franchise">
-  <meta name="twitter:description" content="Bridging Farms and Family">
-  <meta name="twitter:image" content="https://github.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/blob/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg">
+  <!-- Auto redirect to your real website -->
+  <meta http-equiv="refresh" content="0; url=https://yourwebsite.com">
+
+  <title>Redirecting...</title>
 </head>
 
 <body>
-  <h1>Kirimi Food Franchise</h1>
-  <p>Bridging Farms and Family</p>
 </body>
 </html>
  
