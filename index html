@@ -13,6 +13,9 @@
     <meta property="og:url" content="https://kirimifoodfranchise.org/" />
     <meta property="og:type" content="website" />
 
+    <!-- Basic SEO -->
+    <meta name="description" content="Kirimi Food Franchise - A modern agribusiness system connecting farms, families, and markets." />
+
     <!-- Styling -->
     <style>
         body {
@@ -25,12 +28,12 @@
         header {
             background: linear-gradient(90deg, #1b5e20, #2e7d32);
             color: white;
-            padding: 60px 20px;
+            padding: 70px 20px;
             text-align: center;
         }
 
         header h1 {
-            font-size: 40px;
+            font-size: 42px;
             margin: 0;
         }
 
@@ -40,32 +43,43 @@
         }
 
         .container {
-            padding: 40px 20px;
             max-width: 1000px;
             margin: auto;
+            padding: 40px 20px;
         }
 
         .card {
             background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
             margin-bottom: 20px;
+        }
+
+        .card h2 {
+            margin-top: 0;
+            color: #1b5e20;
         }
 
         .image {
             width: 100%;
             border-radius: 10px;
+            margin-top: 10px;
         }
 
         .btn {
             display: inline-block;
-            padding: 12px 20px;
+            padding: 12px 22px;
             background: #2e7d32;
             color: white;
             text-decoration: none;
-            border-radius: 5px;
-            margin-top: 10px;
+            border-radius: 6px;
+            margin-top: 15px;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #1b5e20;
         }
 
         footer {
@@ -76,6 +90,7 @@
             margin-top: 40px;
         }
     </style>
+
 </head>
 
 <body>
@@ -90,29 +105,39 @@
     <div class="card">
         <h2>Welcome</h2>
         <p>
-            Kirimi Food Franchise is a modern agribusiness model designed to connect farmers, families,
-            and markets through structured food production and distribution systems.
+            Kirimi Food Franchise is a structured agribusiness model designed to connect farmers,
+            families, and markets through sustainable food production and distribution.
         </p>
     </div>
 
     <div class="card">
         <h2>Our Vision</h2>
         <p>
-            To build a sustainable food network that empowers communities through agriculture and structured franchise farming.
+            To build a self-sustaining agricultural ecosystem that empowers communities through franchise farming.
         </p>
     </div>
 
     <div class="card">
-        <h2>Preview</h2>
+        <h2>Our Model</h2>
+        <p>
+            We integrate production, distribution, and market access into one coordinated food system.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Franchise Preview</h2>
         <img class="image"
             src="https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg"
-            alt="Kirimi Food Franchise" />
+            alt="Kirimi Food Franchise Preview" />
     </div>
 
     <div class="card">
         <h2>Get Started</h2>
-        <p>Join us in transforming agriculture into a structured business ecosystem.</p>
-        <a class="btn" href="https://kirimifoodfranchise.org/">Visit Website</a>
+        <p>Join us in transforming agriculture into a structured, profitable system.</p>
+
+        <a class="btn" href="https://kirimifoodfranchise.org/">
+            Visit Official Website
+        </a>
     </div>
 
 </div>
