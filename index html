@@ -1,1 +1,125 @@
-[![Kirimi Food Franchise](https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg)](https://kirimifoodfranchise.org/)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Kirimi Food Franchise</title>
+
+    <!-- WhatsApp / Facebook Preview -->
+    <meta property="og:title" content="Kirimi Food Franchise" />
+    <meta property="og:description" content="Bridging farms and family through a smart agribusiness franchise system." />
+    <meta property="og:image" content="https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg" />
+    <meta property="og:url" content="https://kirimifoodfranchise.org/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Styling -->
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f5;
+            color: #222;
+        }
+
+        header {
+            background: linear-gradient(90deg, #1b5e20, #2e7d32);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 40px;
+            margin: 0;
+        }
+
+        header p {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+
+        .container {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .image {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 20px;
+            background: #2e7d32;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #1b5e20;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Kirimi Food Franchise</h1>
+    <p>Bridging farms and family through smart agribusiness systems</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Welcome</h2>
+        <p>
+            Kirimi Food Franchise is a modern agribusiness model designed to connect farmers, families,
+            and markets through structured food production and distribution systems.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Our Vision</h2>
+        <p>
+            To build a sustainable food network that empowers communities through agriculture and structured franchise farming.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Preview</h2>
+        <img class="image"
+            src="https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg"
+            alt="Kirimi Food Franchise" />
+    </div>
+
+    <div class="card">
+        <h2>Get Started</h2>
+        <p>Join us in transforming agriculture into a structured business ecosystem.</p>
+        <a class="btn" href="https://kirimifoodfranchise.org/">Visit Website</a>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 Kirimi Food Franchise | All Rights Reserved
+</footer>
+
+</body>
+</html>
