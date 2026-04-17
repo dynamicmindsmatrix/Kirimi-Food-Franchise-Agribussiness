@@ -1,21 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-
-  <!-- Preview -->
-  <meta property="og:title" content="Kirimi Food Franchise">
-  <meta property="og:description" content="Bridging Farms and Family">
-  <meta property="og:image" content="https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg">
-  <meta property="og:url" content="https://dynamicmindsmatrix.github.io/Kirimi-Food-Franchise-Agribussiness/">
-  <meta property="og:type" content="website">
-
-  <!-- Redirect to your real site -->
-  <meta http-equiv="refresh" content="0; url=https://sites.google.com/view/kirimi-food-franchise-farming/home">
-
-  <title>Redirecting...</title>
-</head>
-
-<body>
-</body>
-</html> 
+<meta property="og:title" content="Kirimi food franchise">
+<meta property="og:description" content="Bridging farms and Family.">
+<meta property="og:image" content="https://yourdomain.com/preview.jpg">
+<meta property="og:url" content="https://yourdomain.com">
+<meta property="og:type" content="website">
