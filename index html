@@ -1,5 +1,63 @@
-<meta property="og:title" content="Kirimi food franchise">
-<meta property="og:description" content="Bridging farms and Family.">
-<meta property="og:image" content="https://yourdomain.com/preview.jpg">
-<meta property="og:url" content="https://yourdomain.com">
-<meta property="og:type" content="website">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- 🔥 PAGE TITLE -->
+  <title>Kirimi Food Franchise</title>
+
+  <!-- 🔗 OPEN GRAPH (LINK PREVIEW) -->
+  <meta property="og:title" content="Kirimi Food Franchise" />
+  <meta property="og:description" content="Bridging farms and family" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg" />
+  <meta property="og:url" content="https://dynamicmindsmatrix.github.io/Kirimi-Food-Franchise-Agribussiness/" />
+  <meta property="og:type" content="website" />
+
+  <!-- 📱 Twitter/X PREVIEW -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Kirimi Food Franchise" />
+  <meta name="twitter:description" content="Bridging farms and family" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/dynamicmindsmatrix/Kirimi-Food-Franchise-Agribussiness/main/WhatsApp%20Image%202026-03-17%20at%2009.32.13.jpeg" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+      flex-direction: column;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      opacity: 0.8;
+    }
+
+    a {
+      margin-top: 20px;
+      color: #38bdf8;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Kirimi Food Franchise</h1>
+  <p>Bridging farms and family</p>
+
+  <a href="https://sites.google.com/view/kirimi-food-franchise-farming/home" target="_blank">
+    Visit Full Website →
+  </a>
+</body>
+</html>
